@@ -4,11 +4,13 @@
 
 It supports many of the original features, with some new elements. 
 
+**Edit:** the original project is located at this [URL](https://github.com/h2oai/pystacknet). This fork updates the *joblib* import statement.
+
 
 ## Installation
 
 ```
-git clone https://github.com/h2oai/pystacknet
+git clone https://github.com/thesfinox/pystacknet
 cd pystacknet
 python setup.py install
 ```
